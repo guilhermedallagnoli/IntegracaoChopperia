@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/08 10:51:04.000.210,=C:\Users\alsti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:33:21.000.181,=C:\Users\alsti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:34:55.000.158,D:\Projetos\alsti-erp\ALSTI - MyTapp\UPrincipal.dfm=C:\Users\alsti\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/18 10:34:55.000.158,D:\Projetos\alsti-erp\ALSTI - MyTapp\UPrincipal.pas=C:\Users\alsti\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 10:35:06.000.336,D:\Projetos\alsti-erp\ALSTI - MyTapp\IntegracaoMyTapp.dproj=C:\Users\alsti\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/18 10:35:24.000.340,=D:\Projetos\alsti-erp\ALSTI - Integração myTapp\UDM.pas</Transaction>
+    <Transaction>2022/08/18 10:36:28.000.075,D:\Projetos\alsti-erp\ALSTI - Integração myTapp\UDM.pas=</Transaction>
+    <Transaction>2022/08/18 10:36:37.000.046,=D:\Projetos\alsti-erp\ALSTI - MyTapp\UDM.pas</Transaction>
+    <Transaction>2022/08/18 10:39:20.000.351,=D:\Projetos\alsti-erp\ALSTI - MyTapp\UDM.pas</Transaction>
+    <Transaction>2022/08/18 10:41:21.000.651,D:\Projetos\alsti-erp\ALSTI - MyTapp\UPrincipal.pas=</Transaction>
+    <Transaction>2022/08/18 10:41:57.000.642,=D:\Projetos\alsti-erp\ALSTI - MyTapp\UPrincipal.pas</Transaction>
+    <Transaction>2022/12/15 10:05:03.000.204,=D:\Projetos\alsti-erp\Core\Public\Config.pas</Transaction>
+    <Transaction>2022/12/15 10:05:15.000.144,=D:\Projetos\alsti-erp\Core\Public\DAO.pas</Transaction>
+    <Transaction>2022/12/15 10:05:22.000.341,=D:\Projetos\alsti-erp\Core\Public\Global.pas</Transaction>
+    <Transaction>2022/12/15 10:05:29.000.931,=D:\Projetos\alsti-erp\Core\Public\PUB.Dialogs.pas</Transaction>
+    <Transaction>2022/12/15 10:05:35.000.480,=D:\Projetos\alsti-erp\Core\Public\PUB.Funcoes.pas</Transaction>
+    <Transaction>2022/12/15 10:05:39.000.715,=D:\Projetos\alsti-erp\Core\Public\Tipos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
